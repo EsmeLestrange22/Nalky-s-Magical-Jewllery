@@ -1,0 +1,76 @@
+#home {
+    background-color: fuchsia;
+    padding: 0px;
+    margin: 0px;
+}
+
+#home h2 {
+    color: firebrick;
+    font-family: cursive;
+}
+
+#home p {
+    color: firebrick;
+    font-family: cursive;
+}
+
+#home img {
+    border-radius: 35px;
+    border-width: 3px;
+    border-color: aqua;
+    border-style: dashed;
+}
+
+#contact {
+    background-color: fuchsia;
+    padding: 0px;
+    margin: 0px;
+}
+
+#contact h2 {
+    color: firebrick;
+    font-family: cursive;
+}
+
+#contact p {
+    color: firebrick;
+    font-family: cursive;
+}
+
+#contact a {
+    color: cyan;
+    font-family: cursive;
+    text-decoration: underline;
+
+}
+#creations {
+    background-color: fuchsia;
+    padding: 0px;
+    margin: 0px;
+}
+
+#creations h2{
+    color: firebrick;
+    font-family: cursive;
+}
+
+#creations p {
+    color: firebrick;
+    font-family: cursive;
+}
+
+#creations img {
+    border-radius: 35px;
+    border-width: 3px;
+    border-color: aqua;
+    border-style: dashed;
+}
+#creations h4{
+    color: firebrick;
+    font-family: cursive;
+}
+#mynavbar {
+    position: sticky;
+}
+
+
